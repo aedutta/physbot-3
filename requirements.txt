@@ -1,0 +1,7 @@
+discord
+gspread
+numpy
+openai
+requests
+beautifulsoup4
+lxml
